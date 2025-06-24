@@ -16,3 +16,4 @@ networks:
 
 volumes:
   uploads:
+    external: true
