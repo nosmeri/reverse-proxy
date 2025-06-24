@@ -2,7 +2,7 @@ name: Reverse-Proxy CI/CD
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
 
 jobs:
   deploy:
